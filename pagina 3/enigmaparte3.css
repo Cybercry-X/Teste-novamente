@@ -1,0 +1,13 @@
+body {
+background-image: url('./cenario\ primeira\ parte\ quiz.png');
+background-size: cover;
+background-repeat: no-repeat;
+}
+#gaveta {
+    position: relative;
+    top: 305px;
+    left: 492px;
+    height: 30px;
+    width: 80px;
+    opacity: 0;
+}
